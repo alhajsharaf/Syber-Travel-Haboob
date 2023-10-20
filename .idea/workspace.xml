@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fb555f6-e201-481f-85a0-a0374113b845" name="Default Changelist" comment="" />
+    <list default="true" id="9fb555f6-e201-481f-85a0-a0374113b845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/AgentLogin_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/AgentLogin_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/AgentRegistration_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/AgentRegistration_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Contact_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Contact_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Flights_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Flights_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Hotels_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Hotels_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Livechat_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Livechat_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Test_plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Test_plan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/UserLogin_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/UserLogin_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/AgentRegistration_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/AgentRegistration_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Contact_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Contact_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Flights_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Flights_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Hotels_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Hotels_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Livechat_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Livechat_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Test_plan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Test_plan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/UserRegisteration_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/UserRegisteration_test.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -42,12 +64,13 @@
   </component>
   <component name="ProjectId" id="2Ji3NcHB81fnQdWPQkZG7hbXQrK" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/chrome-win64/chrome-win64" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -68,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Contact_test">
+  <component name="RunManager" selected="TestNG.Livechat_test">
     <configuration name="Registration (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumj.Registration" />
       <module name="seleniummaven" />
@@ -134,25 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AgentRegistration_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Syber Travel (haboob.travel)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.AgentRegistration_test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Contact_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Syber Travel (haboob.travel)" />
+    <configuration name="Contact_test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Syber-Travel-Haboob" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selenium.*" />
@@ -168,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flights_test.flight" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Syber Travel (haboob.travel)" />
+    <configuration name="Contact_test.contact" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Syber-Travel-Haboob" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selenium.*" />
@@ -177,8 +183,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.Flights_test" />
-      <option name="METHOD_NAME" value="flight" />
+      <option name="MAIN_CLASS_NAME" value="selenium.Contact_test" />
+      <option name="METHOD_NAME" value="contact" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -186,8 +192,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Livechat_test.chat" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Syber Travel (haboob.travel)" />
+    <configuration name="Livechat_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Syber-Travel-Haboob" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.Livechat_test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Livechat_test.chat (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Syber-Travel-Haboob" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selenium.*" />
@@ -204,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogin_test.userlogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Syber Travel (haboob.travel)" />
+    <configuration name="UserLogin_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Syber-Travel-Haboob" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selenium.*" />
@@ -214,8 +237,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="selenium" />
       <option name="MAIN_CLASS_NAME" value="selenium.UserLogin_test" />
-      <option name="METHOD_NAME" value="userlogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -224,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Contact_test" />
-        <item itemvalue="TestNG.UserLogin_test.userlogin" />
-        <item itemvalue="TestNG.Livechat_test.chat" />
-        <item itemvalue="TestNG.Flights_test.flight" />
-        <item itemvalue="TestNG.AgentRegistration_test" />
+        <item itemvalue="TestNG.Livechat_test" />
+        <item itemvalue="TestNG.Contact_test.contact" />
+        <item itemvalue="TestNG.Contact_test (1)" />
+        <item itemvalue="TestNG.UserLogin_test" />
+        <item itemvalue="TestNG.Livechat_test.chat (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -330,11 +352,27 @@
       <workItem from="1696799166635" duration="1384000" />
       <workItem from="1696800600700" duration="2417000" />
       <workItem from="1696803080943" duration="6000" />
+      <workItem from="1697751915234" duration="118000" />
+      <workItem from="1697752530593" duration="682000" />
+      <workItem from="1697753241687" duration="375000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,11 +389,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/selenium/Contact_test.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/selenium/Test_plan.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

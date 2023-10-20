@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class AgentLogin_test {
     @Test
     public void agentlogin() throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "C://Users/Alhaj/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Alhaj\\Downloads\\chrome-win64\\chrome-win64\\chrome.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://agents.haboob.travel");

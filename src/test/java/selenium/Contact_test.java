@@ -14,7 +14,7 @@ import java.time.Duration;
 public class Contact_test {
     @Test
     public void contact() throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "C://Users/Alhaj/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Alhaj\\Downloads\\chrome-win64\\chrome-win64\\chrome.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="seleniummaven" />
+        <module name="Syber-Travel-Haboob" />
         <module name="Syber Travel (haboob.travel)" />
       </profile>
     </annotationProcessing>

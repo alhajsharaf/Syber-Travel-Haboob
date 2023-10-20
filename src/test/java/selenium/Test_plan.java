@@ -3,7 +3,7 @@ package selenium;
 
 
 public class Test_plan {
-    public static <Stress_test1> void main(String[] args) throws InterruptedException {
+    public static  void main(String[] args) throws InterruptedException {
         //user registration
        UserRegisteration_test  uregistration_test = new UserRegisteration_test();
        uregistration_test.userregister();

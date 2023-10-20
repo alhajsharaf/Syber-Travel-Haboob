@@ -12,7 +12,7 @@ public class Livechat_test {
     @Test
     public void chat() throws InterruptedException {
        //launch the browser
-        System.setProperty("webdriver.chrome.driver", "C://Users/Alhaj/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Alhaj\\Downloads\\chrome-win64\\chrome-win64\\chrome.exe");
         WebDriver driver = new ChromeDriver();
         Thread.sleep(10000);
         driver.manage().window().maximize();
