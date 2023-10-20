@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fb555f6-e201-481f-85a0-a0374113b845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/AgentLogin_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/AgentLogin_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/AgentRegistration_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/AgentRegistration_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Contact_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Contact_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Flights_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Flights_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Hotels_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Hotels_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Livechat_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Livechat_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Test_plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Test_plan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/selenium/UserLogin_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/UserLogin_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/AgentRegistration_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/AgentRegistration_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Contact_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Contact_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Flights_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Flights_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Hotels_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Hotels_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Livechat_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Livechat_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/Test_plan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/Test_plan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium/UserRegisteration_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium/UserRegisteration_test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -355,6 +344,7 @@
       <workItem from="1697751915234" duration="118000" />
       <workItem from="1697752530593" duration="682000" />
       <workItem from="1697753241687" duration="375000" />
+      <workItem from="1697843977863" duration="135000" />
     </task>
     <servers />
   </component>
